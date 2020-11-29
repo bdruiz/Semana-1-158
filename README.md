@@ -23,8 +23,8 @@ Cada seccion tiene una rama, donde se puede visualizar el avance de la misma:
   - Seccion Servicios: Rama issue2
   - Sección Noticias: Rama issue3
   - Sección Equipo: Rama issue4
-  - Footer: Rama issue5
-  Cada Rama se fue fusionando con la rama desarrollo hasta llear a su versión final.
+  - Footer: Rama issue5.
+Cada Rama se fue fusionando con la rama desarrollo hasta llegar a la version versión final, que finalmente se añadió a la rama principal main.
  
 #### Integrantes
 - Andrés Cantor
