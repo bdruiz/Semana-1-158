@@ -1,67 +1,27 @@
 body{
-    margin-top: 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    width: 1200px;
-    margin: auto;
+    width:1200px;
+}
 
+.team{
+    background-color: rgb(2, 2, 20);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;    
 }
-.News{
-    width: 100%;
-    background-color: cadetblue;
-    height: 500;
-    display: -webkit-inline-box;
-    display: -ms-inline-flexbox;
-    display: inline-flex;
+
+.team__img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-.News > div:first-child{
-    margin: 0 6px;
-}
-.section-text{
-    margin: 0;
-    color: #3e3e3e;
-    background: white;
-    font-weight: bold;
-    text-align: center;
-}
-.News__data{
-    width: 49%;
-    height: 100%;
-    background-color: rgb(19, 12, 49);
-    display: -webkit-inline-box;
-    display: -ms-inline-flexbox;
-    display: inline-flex; 
-}
-.News__image{
-    margin: 5px 0;
-    padding: 0 15px;
+
+.team__name{
+    justify-content: space-evenly;
     color: white;
-}
-.News__text{
-    color: white;
-    text-align: justify;
-    width: 49%;
-    padding: 0 1em;
-}
-.secc2{
-    height: auto;
-    background-color: gainsboro;
-}
-.News__URL{
-    font-size: 10px;
-    float: right;
-}
-
-.News__URL > a{
-
-    color: #ffffff; 
-}
-
-.News__text > span.News__URL{
-    text-align: right;
-}
-hr{
-    color: white;
-}
-.section__News > div:first-child{
-    margin-bottom: 2px; 
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: x-small;
 }
