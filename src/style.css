@@ -174,3 +174,21 @@ hr{
     margin-left: 5px;
     font-size: x-small;
 }
+
+
+.footer{
+	padding: 20px 30px 20px 20px;
+	background: #52565e;
+    color: white;
+    display: flex;
+	justify-content: space-evenly;
+	color: white;
+	
+}
+
+.footerURL{
+
+    color: #ffffff; 
+}
+
+
