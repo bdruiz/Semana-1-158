@@ -65,3 +65,28 @@ hr{
 .section__News > div:first-child{
     margin-bottom: 2px; 
 }
+
+
+.team{
+    background-color: rgb(2, 2, 20);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;    
+}
+
+.team__img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.team__name{
+    justify-content: space-evenly;
+    color: white;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: x-small;
+}
